@@ -3,7 +3,7 @@
     <div class="login_box"> 
       <!-- 头像 -->
       <div class="avatar_box">
-        <img src="../assets/picture/avatar.jpg">
+        <img src="~assets/picture/avatar.jpg">
       </div>
 
       <!-- 登录框 -->
